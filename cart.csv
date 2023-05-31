@@ -1,0 +1,11 @@
+RID,age,income,student,credit_rating,Class:buys_co
+1,youth,high,no,fair,no
+2,senior,low,yes,excellent,yes
+3,senior,medium,yes,fair,no
+4,youth,low,no,excellent,no
+5,middle_aged,low,no,excellent,yes
+6,middle_aged,high,yes,fair,yes
+7,senior,medium,yes,fair,no
+8,youth,high,no,excellent,no
+9,middle_aged,medium,yes,fair,yes
+10,youth,low,no,excellent,no
